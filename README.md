@@ -1,3 +1,3 @@
 # MyResume
 
-Simple HTML with some CSS.
+Simple HTML with some CSS
